@@ -1,0 +1,5 @@
+a=input("enter a no with comma separate")
+l=list(a.split(','))
+print(l)
+t=tuple(a.split(','))
+print(t)
